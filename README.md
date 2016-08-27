@@ -1,5 +1,5 @@
 # Poker_Unity3d
-this is a framework for implementing advanced decisions for the computer agents.
+This is a framework for implementing advanced decision for the AI agents.
 this package inculdes : evaluation cards in each round.
                         seperating Player Implementation Logic from the UI.
                         compare two hands,but be careful this will depend on HandEvaluation.prolog
